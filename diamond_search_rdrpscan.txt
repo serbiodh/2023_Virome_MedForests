@@ -1,0 +1,22 @@
+#!/usr/local/bin/
+
+# Add diamond to path temporarily
+export PATH=/mnt/c/Users/Usuario/'MSI Stealth'/Yutera/jcyl_viromics/programs/diamond-windows/:$PATH
+
+# Run diamond to search rdrpscan in contigs
+INPUT='palmscan_palmprints/pp_aa.fa'
+OUTPUT='rdrpscan_search_diamond.out'
+DB='../../../../../databases/RdRp-scan-main/RdRp-scan_090_underscores.dmnd'
+
+diamond.exe blastp \
+  -q $INPUT \
+  -d $DB \
+  --masking 0 \
+  --ultra-sensitive -k0 \
+  --no-parse-seqids \
+  --salltitles \
+  -f 6 qseqid  qstart qend qlen \
+       salltitles  sstart send slen \
+       pident evalue cigar \
+       full_sseq sseq \
+  > $OUTPUT

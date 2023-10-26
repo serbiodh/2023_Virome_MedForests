@@ -1,0 +1,10 @@
+#!/usr/local/bin/
+
+# Add palmscan to path temporarily
+export PATH=/mnt/c/Users/Usuario/'MSI Stealth'/Yutera/jcyl_viromics/programs/palmscan1-main/bin/:$PATH
+outdir="palmscan_palmprints"
+
+# Run palmscan to detect palmprints in contigs
+palmscan -search_pp ../cc_fp_pq_rdrps_nt.fasta \
+		 -rt -rdrp -all -ppout "$outdir/pp_aa.fa" -ppout_nt "$outdir/pp_nt.fa" \
+		 -report "$outdir/pp.txt" -fevout "$outdir/pp.fev"

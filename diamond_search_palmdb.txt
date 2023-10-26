@@ -1,0 +1,21 @@
+#!/usr/local/bin/
+
+# Add diamond to path temporarily
+export PATH=/mnt/c/Users/Usuario/'MSI Stealth'/Yutera/jcyl_viromics/programs/diamond-windows/:$PATH
+
+# Run diamond to search palmDB in contigs
+INPUT='palmscan_palmprints/pp_aa.fa'
+OUTPUT='palmprint_search_diamond_otu.out'
+DB='../../../../../databases/diamond/palmdb_otu.dmnd'
+# DB='../../../../../databases/diamond/palmdb_uniq.dmnd'
+
+diamond.exe blastp \
+  -q $INPUT \
+  -d $DB \
+  --masking 0 \
+  --ultra-sensitive -k0 \
+  -f 6 qseqid  qstart qend qlen \
+       sseqid  sstart send slen \
+       pident evalue cigar \
+       full_sseq \
+  > $OUTPUT

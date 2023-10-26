@@ -1,0 +1,1106 @@
+
+>CC2_NODE_19368_length_1594_cov_181.209073
+   A:239-250(13.7)      B:316-329(20.2)      C:349-356(10.2)
+   YGIDFSSFDTKV    <65> SGSWWTQMIDSVVN  <19> VLGDDSAF  [118]
+   +. |||+||  +         |||.+|++|+|.||       |.|||+ .
+   iagDySkFDssl         SGsplTsidNSivN       vyGDDnii
+Score 54.1, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>CC1_NODE_2472_length_2383_cov_5.040693
+   A:250-261(19.1)      B:307-320(25.4)      C:349-356(12.1)
+   LSFDYSAATDKI    <45> MGSAMSFPLLCLIN  <28> INGDDLLM  [107]
+   .|+||||||| |         |||..|||||||||       |||||++ 
+   aSgDLSaATDrl         MGsgsSFplLtLih       vlGDDIvi
+Score 56.5, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>CC2_NODE_4862_length_2772_cov_15.371990
+   A:211-222(2.8)       B:325-338(8.6)      C:349-356(4.3)
+   SSGDFGMQDSLF   <102> GGRPLTSSLDTLCL <10> TDGDDVTR  [146]
+    .|||   || .          | |+|| ++|||       | |||+  
+   iagDySkFDssl         SGsplTsidNSivN      vyGDDnii
+Score 20.7, high-confidence-RdRP: reward-DDGGDD.good-segment-length.AB-dist-penalty.
+
+>CC2_NODE_14464_length_1829_cov_5.291572
+   A:30-41(6.1)       B:142-155(11.4)      C:166-173(8.8)
+   SSGDFSMQDSLF <100> EGQPLTSPLDTLAL  <10> AYGDDAPQ  [144]
+    .||||  || .        |||+|| ++||.        |||||  .
+   iagDySkFDssl       SGsplTsidNSivN       vyGDDnii
+Score 31.4, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.AB-dist-penalty.
+
+>CC2_NODE_13850_length_1860_cov_586.606603
+   A:256-267(9.0)      B:317-330(15.5)      C:349-356(8.8)
+   IEADFSSNDKLQ   <49> SGSTSTTFRNSIWN  <18> ILGDDMLS  [101]
+   +.+|||+ |+ .        ||| +||  ||| |       ..||| | 
+   iagDySkFDssl        SGsplTsidNSivN       vyGDDnii
+Score 43.3, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>CC2_NODE_60275_length_765_cov_2.326590
+   A:146-157(10.4)      B:211-224(2.8)     C:234-241(10.4)
+   SSSDSSCYDSTT    <53> TNSATGTGFNWTVN <9> VAGDDSGA  [96]
+    ++| ||||||          | ++| . +|  +|     |+|||| .
+   lenDyskFDksq         SGdanTslGNTltn     vsGDDsvv
+Score 23.6, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>CC3_NODE_4997_length_2978_cov_6.776592
+   A:246-257(17.8)      B:311-324(25.4)      C:349-356(8.0)
+   LLYDWANYNAQH    <53> SGWRGTTWDNTTLN  <24> QGGDDVDQ  [111]
+   | +||++||+||         ||||+||| || ||         ||||. 
+   lmlDysdFNsqH         SGeRaTtfiNsvlN       hvGDDvll
+Score 51.2, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>CC3_NODE_2906_length_3471_cov_886.074456
+   A:258-269(19.0)      B:315-328(18.7)      C:349-356(14.8)
+   XSLDLSSATDRY    <45> MGSYSSXASFTITH  <20> LLGDDIVI  [99]
+    |+||||||||          |||||| + ||+||       .|||||||
+   aSgDLSaATDrl         MGsgsSFplLtLih       vlGDDIvi
+Score 52.5, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>CC3_NODE_526_length_5200_cov_46.696119
+   A:255-266(24.2)      B:316-329(26.0)      C:349-356(15.0)
+   LMLDYDNFNSQH    <49> SGHRGTTYVNSVLN  <19> HAGDDVYL  [102]
+   ||||||+|||||         ||||+||..|||||       | |||||+
+   lmlDysdFNsqH         SGeRaTtfiNsvlN       hvGDDvll
+Score 65.1, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>CC3_NODE_1889_length_3889_cov_601.099057
+   A:241-252(14.2)      B:303-316(13.4)      C:349-356(8.8)
+   LSSDLKEATDAL    <50> MGEPMTKGLLALYN  <32> VGGDDHIA  [116]
+   .| ||+ ||| |         || |.|  ||+| |       | ||| |.
+   aSgDLSaATDrl         MGsgsSFplLtLih       vlGDDIvi
+Score 36.4, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>CC3_NODE_967_length_4585_cov_14.194371
+   A:248-259(22.5)      B:317-330(26.4)      C:349-356(15.6)
+   LCIDFEDFNSQH    <57> SGWRLTTYVNSVLN  <18> HNGDDVLM  [109]
+   ||+||.||||||         ||||.||..|||||       |+||||+|
+   lmlDysdFNsqH         SGeRaTtfiNsvlN       hvGDDvll
+Score 64.5, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>CC3_NODE_15310_length_1984_cov_17.502878
+   A:223-234(17.0)      B:311-324(14.8)      C:349-356(8.4)
+   FTIDWSSFDQRL    <76> SGILNTQYIDSFAN  <24> ILGDDNSG  [134]
+   +. |||+||++|         ||  .|+.|+|..|       ..||||  
+   iagDySkFDssl         SGsplTsidNSivN       vyGDDnii
+Score 50.1, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>CC3_NODE_1997_length_3839_cov_8.678439
+   A:209-220(5.9)      B:271-284(5.0)      C:349-356(9.0)
+   DIVDLAGLDTSV   <50> RGQLNLGLLSCLTN <64> VDGDDRAV  [148]
+     .| +. |+||         || |  |. ||||      |.|||  |
+   lenDyskFDksq        SGdanTslGNTltn      vsGDDsvv
+Score 25.0, high-confidence-RdRP: reward-DDGGDD.good-segment-length.BC-dist-penalty.
+
+>CC3_NODE_5933_length_2811_cov_564.704164
+   A:259-270(16.8)      B:320-333(22.3)      C:349-356(16.4)
+   TSGDYESASDHL    <49> MGSLLCFPLLCLQN  <15> INGDDIVF  [98]
+    ||||.|||| |         |||.+.|||||| |       ||||||||
+   aSgDLSaATDrl         MGsgsSFplLtLih       vlGDDIvi
+Score 55.5, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>CC3_NODE_77_length_7621_cov_31.996820
+   A:220-231(10.1)      B:308-321(19.4)      C:349-356(10.7)
+   ASLDCRRWGPHS    <76> FMMGIFNYLSSIMH  <27> AHSDDSQA  [137]
+    |.| . |+||           ||||+||+|||.|       +|||||+ 
+   islDasKWNnnq         glqGllqktSSllh       vqSDDqvi
+Score 40.2, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>CC4_NODE_4005_length_2976_cov_153.041681
+   A:244-255(12.7)      B:309-322(16.5)      C:349-356(9.0)
+   IETDFSNLDGRV    <53> SGSPTTTPHNTQYN  <26> KSGDDGLS  [113]
+   +|.|||  |.+|         ||+|||.  || .|        ||||.| 
+   lenDyskFDksq         SGdanTslGNTltn       vsGDDsvv
+Score 48.2, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>CC4_NODE_6636_length_2424_cov_5.907274
+   A:245-256(17.2)      B:314-327(16.6)      C:349-356(11.9)
+   ICLDKSAWDWTV    <57> SGCYLTLLLNSVGQ  <21> AMGDDTVQ  [112]
+   +|.| |.||||+         ||||+| .+||. +       |||||.|.
+   iagDySkFDssl         SGsplTsidNSivN       vyGDDnii
+Score 55.8, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>CC4_NODE_213_length_7563_cov_10.907477
+   A:212-223(21.1)      B:301-314(24.0)      C:349-356(12.9)
+   IAGDYSNFDGTL    <77> SGCPATAILNSIVN  <34> FYGDDFIM  [145]
+   +||||||||+||         |||| |.|+|||||       .|||| |+
+   iagDySkFDssl         SGsplTsidNSivN       vyGDDnii
+Score 68.1, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>CC4_NODE_8462_length_2162_cov_12.662518
+   A:193-204(11.0)      B:262-275(22.1)      C:301-308(12.2)
+   VPLDQGSFDWHQ    <57> SGWRWTALLDTFLN  <25> AQGDDVIF  [116]
+   ++||  .||.|          |||||| . .|.||        |||||.+
+   lmlDysdFNsqH         SGeRaTtfiNsvlN       hvGDDvll
+Score 55.3, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>CC4_NODE_11767_length_1834_cov_7.034639
+   A:239-250(12.1)      B:309-322(19.1)      C:349-356(15.1)
+   VTGDYKNFGPGL    <58> SGSPITDILNTISN  <26> CYGDDLIM  [118]
+   +.|||+||   |         |||| | |+||| |       |||||.|+
+   iagDySkFDssl         SGsplTsidNSivN       vyGDDnii
+Score 46.3, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>CC3_NODE_1246_length_4305_cov_189.404064
+   A:258-269(12.6)      B:319-332(14.2)      C:349-356(13.1)
+   TSIDLVNASDGL    <49> MGQYLCFPMLCFQS  <16> INGDDCLI  [99]
+    |||| .||| |         || |+.|||||          ||||| +|
+   aSgDLSaATDrl         MGsgsSFplLtLih       vlGDDIvi
+Score 39.9, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>CC4_NODE_98_length_9111_cov_13.791657
+   A:234-245(11.6)      B:300-313(21.9)      C:349-356(14.7)
+   VTLDYSNFGPGF    <54> SGAPITVVINSLVN  <35> VYGDDLIM  [123]
+   +..|||||   .         || | |||||||||       |||||.|+
+   iagDySkFDssl         SGsplTsidNSivN       vyGDDnii
+Score 48.2, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>CC4_NODE_13756_length_1690_cov_3.744589
+   A:222-233(14.2)      B:291-304(20.9)      C:337-344(13.1)
+   VDLDYKGWDFSA    <57> SGYPGTAPDNSLIN  <32> IYGDDIIM  [123]
+   +|.||++|| |          || |+|. ||||+|       .|||| |+
+   iagDySkFDssl         SGsplTsidNSivN       vyGDDnii
+Score 58.2, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>CC4_NODE_7762_length_2258_cov_88.853547
+   A:257-268(18.6)      B:320-333(23.9)      C:349-356(9.7)
+   VSSDLSNATDYV    <51> MGTPLSFPTLCLLH  <15> IRGDDLIG  [100]
+   +| |||.|||+.         ||.|+||| |||.|       | |||+| 
+   aSgDLSaATDrl         MGsgsSFplLtLih       vlGDDIvi
+Score 52.2, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>CC3_NODE_33765_length_1360_cov_6.073038
+   A:211-222(3.3)      B:284-297(12.7)      C:347-354(3.1)
+   AVDDTTDSDTTT   <61> SGDSTTAASNGTTS  <49> SSSDDILA  [144]
+     +|||  |+|         ||| ||...|  |         | || |.
+   lenDyskFDksq        SGdanTslGNTltn       vsGDDsvv
+Score 24.2, high-confidence-RdRP: reward-DDGSDD.good-segment-length.BC-dist-penalty.
+
+>FP1_NODE_6936_length_1663_cov_8.649686
+   A:234-245(6.6)      B:316-329(17.8)      C:349-356(9.0)
+   VGLDFHAFDTLP   <70> SGSHFTNLIDSLVN  <19> TNGDDSGF  [123]
+   +..|| .||           ||| +|+.|+||||       |+|||+ .
+   iagDySkFDssl        SGsplTsidNSivN       vyGDDnii
+Score 43.5, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>FP1_NODE_3793_length_2188_cov_5.585343
+   A:250-261(19.8)      B:307-320(27.2)      C:349-356(10.8)
+   LSFDYESATDNI    <45> MGSPLSFPLLCLIN  <28> INGDDLLT  [107]
+   .|+||.||||+|         ||||+|||||||||       |||||++ 
+   aSgDLSaATDrl         MGsgsSFplLtLih       vlGDDIvi
+Score 57.8, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>FP1_NODE_2413_length_2593_cov_9.385714
+   A:258-269(24.2)      B:314-327(20.0)      C:349-356(14.8)
+   YSVDLSSATDRF    <44> MGAYSSFNSFAMTH  <21> LLGDDIVI  [99]
+   ||.|||||||||         |||||||  |++||       .|||||||
+   aSgDLSaATDrl         MGsgsSFplLtLih       vlGDDIvi
+Score 58.9, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>FP1_NODE_5418_length_1872_cov_5.821012
+   A:238-249(9.2)      B:301-314(13.4)      C:349-356(6.6)
+   VSSDWTKATDYP   <51> MGDPLTKTNLCLVH  <34> GNGDDLIH  [119]
+   +| | | |||+         || |+|   |||.|        ||||+| 
+   aSgDLSaATDrl        MGsgsSFplLtLih       vlGDDIvi
+Score 29.2, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>FP1_NODE_2829_length_2446_cov_16.621155
+   A:326-337(22.4)      B:385-398(17.8)      C:419-426(16.4)
+   HSIDLTSATDRF    <47> MGAKSSXPAFTLSH  <20> ILGDDIVI  [101]
+    |||||||||||         ||| || | |||.|       ||||||||
+   aSgDLSaATDrl         MGsgsSFplLtLih       vlGDDIvi
+Score 56.6, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>CC4_NODE_47913_length_745_cov_2.607143
+   A:15-26(17.3)      B:84-97(18.3)       C:117-124(9.1)
+   WALDKSAWDWSM  <57> SGCVNTISDNSIAQ <19> CMGDDTYE  [110]
+   .|.| |.|||||       ||| .|  ||||.+      |||||.  
+   iagDySkFDssl       SGsplTsidNSivN      vyGDDnii
+Score 54.7, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>FP1_NODE_7832_length_1553_cov_11.652703
+   A:258-269(20.9)      B:320-333(22.3)      C:349-356(16.4)
+   VSGDYESATDNL    <50> MGELLSFPLLCLVN  <15> INGDDIVF  [99]
+   +||||.||||+|         || .+|||||||.|       ||||||||
+   aSgDLSaATDrl         MGsgsSFplLtLih       vlGDDIvi
+Score 59.5, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>CC4_NODE_32538_length_993_cov_4.427174
+   A:180-191(9.4)      B:273-286(24.8)      C:322-329(12.2)
+   ASEDKTRWNQRI   <81> MMQGILHFTSSFYH  <35> CSSDDSST  [150]
+    | | | |||          |||||||.|||.||       .|||||.|
+   islDasKWNnnq        glqGllqktSSllh       vqSDDqvi
+Score 51.3, high-confidence-RdRP: high-PSSM-score.reward-DNMSDD.good-segment-length.AB-dist-penalty.
+
+>FP1_NODE_1211_length_3251_cov_11.518565
+   A:255-266(17.6)      B:317-330(21.6)      C:349-356(12.8)
+   IGVDASRFDQHV    <50> SGDMNTALGNCVLM  <18> NDGDDCLL  [102]
+   +..|.|||||||         ||||||.||||..|       +.|||||.
+   lenDyskFDksq         SGdanTslGNTltn       vsGDDsvv
+Score 62.0, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>CC4_NODE_25596_length_1166_cov_3.440073
+   A:19-30(12.3)      B:86-99(15.2)       C:137-144(14.0)
+   IPIDFKRWDKLL  <55> SGALGTGPDNSFMN <37> TYGDDLLL  [126]
+   +  ||++||+ |       ||  +|  |||.||      |||||.|.
+   iagDySkFDssl       SGsplTsidNSivN      vyGDDnii
+Score 51.4, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>CC4_NODE_26516_length_1138_cov_2.933333
+   A:171-182(15.3)      B:250-263(21.1)      C:284-291(10.9)
+   LLGDWSRFDKTI    <67> SGSCFTNIIDSIIN  <20> YLGDDSVV  [121]
+   . ||||+||+|+         |||.+|+||+||+|        .|||+|+
+   iagDySkFDssl         SGsplTsidNSivN       vyGDDnii
+Score 57.3, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>FP1_NODE_53303_length_457_cov_2.393229
+   A:17-28(21.4)      B:79-92(23.6)       C:118-125(11.1)
+   VSGDYKSATDNI  <50> MGNLVSFPILCLLN <25> FNGDDCVF  [109]
+   +||||+||||+|       |||. |||+|||.|       |||| ||
+   aSgDLSaATDrl       MGsgsSFplLtLih      vlGDDIvi
+Score 56.1, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>FP1_NODE_44541_length_500_cov_1.791569
+   A:33-44(19.1)      B:96-109(25.4)      C:131-138(15.5)
+   TSGDYKSATDNL  <51> MGSYLSFPLLCLQN <21> INGDDILF  [106]
+    ||||+||||+|       ||||+||||||| |      ||||||+|
+   aSgDLSaATDrl       MGsgsSFplLtLih      vlGDDIvi
+Score 60.1, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>FP1_NODE_76029_length_390_cov_1.880126
+   A:15-26(7.9)      B:75-88(22.0)       C:108-115(9.3)
+   MSDDLKRQDRQT <48> SGQATTAVGNCITN <19> ILGDDNLL  [101]
+    ++| .|.| .       |||+||. ||||||      . |||.|.
+   lenDyskFDksq      SGdanTslGNTltn      vsGDDsvv
+Score 49.1, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>FP1_NODE_89082_length_366_cov_1.539249
+   A:15-26(21.1)      B:79-92(22.9)       C:114-121(15.5)
+   FSGDYKSATDNL  <52> MGSLLSFPLLCIQN <21> INGDDILF  [107]
+   +||||+||||+|       |||.+||||||+ |      ||||||+|
+   aSgDLSaATDrl       MGsgsSFplLtLih      vlGDDIvi
+Score 59.5, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>FP1_NODE_61267_length_428_cov_3.278873
+   A:42-53(20.9)      B:104-117(22.8)      C:133-140(16.4)
+   VSGDYESATDNL  <50> MGNFLSFPLLCLQN  <15> INGDDIVF  [99]
+   +||||.||||+|       ||| +||||||| |       ||||||||
+   aSgDLSaATDrl       MGsgsSFplLtLih       vlGDDIvi
+Score 60.1, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>FP1_NODE_93125_length_359_cov_4.167832
+   A:17-28(3.6)      B:67-80(20.9)       C:101-108(12.4)
+   YNIDYGNYEGYG <38> SGSYFTQLVDSIVN <20> VLGDDSIF  [92]
+   +  || || +        ||||+|+..+||||      |.|||+|.
+   iagDySkFDssl      SGsplTsidNSivN      vyGDDnii
+Score 36.8, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>FP1_NODE_28738_length_644_cov_3.740806
+   A:5-16(12.0)      B:66-79(19.5)       C:96-103(13.1)
+   TSVDLVGATDNL <49> MGTYLSFPLLCIQS <16> INGDDCLI  [99]
+    |.||  |||+|      ||.|+||||||+        ||||| +|
+   aSgDLSaATDrl      MGsgsSFplLtLih      vlGDDIvi
+Score 44.6, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>FP2_NODE_8121_length_2071_cov_25.706707
+   A:80-91(10.3)      B:149-162(11.6)      C:176-183(5.8)
+   LSTDLSEATDFG  <57> MGDMMTKVILTLAH  <13> LVGDDEIA  [104]
+   .| ||| |||         ||  .|  +||| |       . ||| |.
+   aSgDLSaATDrl       MGsgsSFplLtLih       vlGDDIvi
+Score 27.7, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>FP2_NODE_7302_length_2155_cov_28.112392
+   A:254-265(25.1)      B:316-329(27.4)      C:349-356(16.2)
+   LMLDYDDFNSHH    <50> SGHRGTTYINSVLN  <19> HVGDDVYL  [103]
+   ||||||||||||         ||||+||.||||||       |||||||+
+   lmlDysdFNsqH         SGeRaTtfiNsvlN       hvGDDvll
+Score 68.7, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>FP2_NODE_12451_length_1745_cov_19.456938
+   A:239-250(12.8)      B:316-329(20.7)      C:349-356(9.1)
+   HGLDFSAFDTHV    <65> SGSYFTQLIDSVVN  <19> VLGDDSQF  [118]
+    ..|||.|| ++         ||||+|+.|+|.||       |.|||+ .
+   iagDySkFDssl         SGsplTsidNSivN       vyGDDnii
+Score 52.6, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>FP2_NODE_4055_length_2659_cov_898.840294
+   A:255-266(18.5)      B:317-330(24.3)      C:349-356(14.7)
+   LSADFSAATDNL    <50> MGNLLSFPLLCLQN  <18> VNGDDLVV  [102]
+   .| | |||||+|         |||.+||||||| |       |||||+|+
+   aSgDLSaATDrl         MGsgsSFplLtLih       vlGDDIvi
+Score 57.5, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>FP1_NODE_14621_length_1037_cov_3.653527
+   A:95-106(10.9)      B:166-179(6.5)      C:233-240(12.7)
+   FSTDLSEATDFG   <59> MGDLMTKVILTIGQ <53> LVGDDIII  [146]
+   +| ||| |||          || ..|  +||+        . ||||||
+   aSgDLSaATDrl        MGsgsSFplLtLih      vlGDDIvi
+Score 25.0, high-confidence-RdRP: high-PSSM-score.good-segment-length.BC-dist-penalty.
+
+>FP2_NODE_4912_length_2496_cov_3263.689228
+   A:254-265(19.6)      B:312-325(17.6)      C:349-356(10.7)
+   ISGDYEAATDNL    <46> MGNLCGFPILCLMN  <23> VNGDDCTF  [103]
+    ||||.||||+|         |||.  ||+||| |       |||||  |
+   aSgDLSaATDrl         MGsgsSFplLtLih       vlGDDIvi
+Score 47.8, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>FP1_NODE_8789_length_1454_cov_7.177408
+   A:40-51(17.9)      B:93-106(23.0)      C:128-135(13.0)
+   SGFDLTAATDRL  <41> MGAYTSFAMLGLTH <21> LLGDDIAI  [96]
+     +|||||||||       ||||.||+|| |||      .||||| |
+   aSgDLSaATDrl       MGsgsSFplLtLih      vlGDDIvi
+Score 53.9, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>FP3_NODE_3686_length_3232_cov_6690.410573
+   A:250-261(19.5)      B:311-324(17.9)      C:349-356(13.1)
+   FGFDLSAATDRL    <49> MGALSSXAMLNLVH  <24> ILGDDLVL  [107]
+   + +|||||||||         |||.|| +|| |.|       |||||+| 
+   aSgDLSaATDrl         MGsgsSFplLtLih       vlGDDIvi
+Score 50.5, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>FP2_NODE_1470_length_3624_cov_248.515629
+   A:211-222(10.9)      B:282-295(6.5)      C:349-356(12.7)
+   FSTDLSEATDFG    <59> MGDLMTKVILTIGQ <53> LVGDDIII  [146]
+   +| ||| |||           || ..|  +||+        . ||||||
+   aSgDLSaATDrl         MGsgsSFplLtLih      vlGDDIvi
+Score 25.0, high-confidence-RdRP: high-PSSM-score.good-segment-length.BC-dist-penalty.
+
+>FP2_NODE_44269_length_866_cov_10.083228
+   A:7-18(3.3)       B:72-85(12.7)       C:123-130(3.1)
+   AVDDTTDSDTTT <53> SGDSTTAASNGTTS <37> SSSDDILA  [124]
+     +|||  |+|       ||| ||...|  |        | || |.
+   lenDyskFDksq      SGdanTslGNTltn      vsGDDsvv
+Score 29.2, high-confidence-RdRP: reward-DDGSDD.good-segment-length.
+
+>FP3_NODE_8317_length_2445_cov_3999.245363
+   A:223-234(18.0)      B:311-324(15.1)      C:349-356(13.3)
+   LCIDWSSFDQRM    <76> SGMLNTQYLDSYCN  <24> VMGDDNVL  [134]
+   .| |||+||++|         ||. .|+.++| ||       |||||||.
+   iagDySkFDssl         SGsplTsidNSivN       vyGDDnii
+Score 56.4, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>FP3_NODE_6375_length_2704_cov_5705.496389
+   A:246-257(24.1)      B:313-326(13.7)      C:349-356(16.5)
+   YSFDLSAATDRL    <55> MGCLSSXAGLAITH  <22> VLGDDIVI  [111]
+   ||+|||||||||         || .|| + |++||       ||||||||
+   aSgDLSaATDrl         MGsgsSFplLtLih       vlGDDIvi
+Score 54.4, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>FP2_NODE_48362_length_817_cov_3.919355
+   A:84-95(7.3)      B:121-134(9.5)      C:203-210(3.6)
+   TSADISQHDSHN <25> SGSGTTSGSSTSTA <68> RASDDSCT  [127]
+   ++ |.|. |||       ||+ ||| . | |        + |||| 
+   lenDyskFDksq      SGdanTslGNTltn      vsGDDsvv
+Score 20.4, high-confidence-RdRP: high-PSSM-score.reward-DDGSDD.good-segment-length.AB-dist-penalty.BC-dist-penalty.
+
+>FP3_NODE_9096_length_2359_cov_1510.826334
+   A:223-234(18.1)      B:311-324(15.6)      C:349-356(12.5)
+   MCIDWSAFDQRM    <76> SGMLNTQYIDSYCN  <24> IMGDDNVV  [134]
+   +| |||.||++|         ||. .|+.|+| ||       .||||||+
+   iagDySkFDssl         SGsplTsidNSivN       vyGDDnii
+Score 56.2, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>FP3_NODE_1324_length_4349_cov_454.246258
+   A:258-269(22.0)      B:315-328(17.4)      C:349-356(16.4)
+   XSLDLSSATDRF    <45> MGTYSSXSVFTLTH  <20> ILGDDIVI  [99]
+    |+|||||||||         ||.|||  +|||||       ||||||||
+   aSgDLSaATDrl         MGsgsSFplLtLih       vlGDDIvi
+Score 55.8, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>FP3_NODE_3421_length_3304_cov_15.956979
+   A:217-228(3.3)      B:290-303(12.7)      C:349-356(3.1)
+   AVDDTTDSDTTT   <61> SGDSTTAASNGTTS  <45> SSSDDILA  [140]
+     +|||  |+|         ||| ||...|  |         | || |.
+   lenDyskFDksq        SGdanTslGNTltn       vsGDDsvv
+Score 29.2, high-confidence-RdRP: reward-DDGSDD.good-segment-length.
+
+>FP2_NODE_22978_length_1287_cov_102.373970
+   A:104-115(9.0)      B:165-178(15.5)      C:197-204(8.8)
+   IEADFSSNDKLQ   <49> SGSTSTTFRNSIWN  <18> ILGDDMLS  [101]
+   +.+|||+ |+ .        ||| +||  ||| |       ..||| | 
+   iagDySkFDssl        SGsplTsidNSivN       vyGDDnii
+Score 43.3, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>FP4_NODE_1518_length_3888_cov_68.768807
+   A:215-226(10.7)      B:311-324(7.5)      C:349-356(10.5)
+   SSVDIAGMDTSI    <84> SGRADTSTHHTVLL <24> VMGDDMFI  [142]
+    +.|.+..|+|+         || ++||   |..       | |||| |
+   lenDyskFDksq         SGdanTslGNTltn      vsGDDsvv
+Score 33.7, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.AB-dist-penalty.
+
+>FP4_NODE_1324_length_4052_cov_9.361900
+   A:232-243(12.4)      B:303-316(19.2)      C:349-356(11.8)
+   ITFDYSDFGPRL    <59> SGAATTVIFNTLVN  <32> LYGDDGIM  [125]
+   +.+||| |  +|         || . |||+|||||        ||||.|+
+   iagDySkFDssl         SGsplTsidNSivN       vyGDDnii
+Score 43.4, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>FP4_NODE_446_length_5740_cov_75.491971
+   A:236-247(14.1)      B:305-318(19.7)      C:349-356(14.0)
+   VAGDFEGFDASE    <57> SGHYLTAIINSVFV  <30> AYGDDHVV  [121]
+   +|||| +||.|          ||||+|.||||...       |||||.|+
+   iagDySkFDssl         SGsplTsidNSivN       vyGDDnii
+Score 57.8, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>FP3_NODE_1688_length_4070_cov_2083.657493
+   A:254-265(14.1)      B:310-323(13.8)      C:349-356(11.4)
+   TSGDFSASTDYL    <44> MGSNCSFVVLCVLN  <25> INGDDAAF  [103]
+    ||| || ||+|         |||  || +|| .|       |||||  |
+   aSgDLSaATDrl         MGsgsSFplLtLih       vlGDDIvi
+Score 39.3, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>FP3_NODE_9919_length_2282_cov_719.243096
+   A:223-234(17.0)      B:311-324(12.8)      C:349-356(9.2)
+   FTIDWSGFDQRL    <76> SGLLNTQFLDSFGN  <24> IMGDDNSG  [134]
+   +. |||+||++|         ||  .|+ ++|. |       .|||||  
+   iagDySkFDssl         SGsplTsidNSivN       vyGDDnii
+Score 48.9, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>FP4_NODE_1682_length_3758_cov_16.291452
+   A:254-265(8.7)      B:315-328(16.4)      C:349-356(10.6)
+   GCIDGERFDHTI   <49> SGWRITSLVGSLVS  <20> VMGDDIVL  [103]
+    |+| . |||..        |||| ||...|+         +.|||..+
+   lmlDysdFNsqH        SGeRaTtfiNsvlN       hvGDDvll
+Score 45.7, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>FP4_NODE_58850_length_595_cov_3.306513
+   A:30-41(16.2)      B:92-105(14.1)      C:124-131(7.5)
+   IVIDASAWNNHF  <50> GIEGLNQDTWVAVY <18> CKGDDMRL  [102]
+   | +|+| ||||+       |+||| | ||  +.      . |||. +
+   islDasKWNnnq       glqGllqktSSllh      vqSDDqvi
+Score 37.7, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>FP4_NODE_395_length_5960_cov_569.278580
+   A:255-266(18.0)      B:319-332(19.4)      C:349-356(10.3)
+   YEIDYSRFDLSI    <52> SGDPHTSVGNGILN  <16> CEGDDGII  [102]
+   ||+|||||| |+         |||| || || |.|       . |||..|
+   lenDyskFDksq         SGdanTslGNTltn       vsGDDsvv
+Score 57.7, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>FP4_NODE_4126_length_2768_cov_170.095733
+   A:249-260(6.1)      B:316-329(11.5)      C:349-356(9.8)
+   YSRDISSWDVNA   <55> SGLFVTIADNSLSM  <19> ATGDDVLQ  [108]
+   +. | |+||           || + |  ||||         | |||+|.
+   iagDySkFDssl        SGsplTsidNSivN       vyGDDnii
+Score 37.3, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>FP4_NODE_396_length_5954_cov_14.254549
+   A:255-266(18.0)      B:319-332(19.4)      C:349-356(10.3)
+   YEIDYSRFDLSI    <52> SGDPHTSVGNGLLN  <16> CEGDDGII  [102]
+   ||+|||||| |+         |||| || || |.|       . |||..|
+   lenDyskFDksq         SGdanTslGNTltn       vsGDDsvv
+Score 57.6, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>PQ1_NODE_164_length_4412_cov_121.079281
+   A:254-265(17.5)      B:317-330(21.6)      C:349-356(11.0)
+   IGLDASRFDQHV    <51> SGDMDTALGNCLLM  <18> NNGDDIVV  [103]
+   +..|.|||||||         ||||+|.|||||.|       ++||| ||
+   lenDyskFDksq         SGdanTslGNTltn       vsGDDsvv
+Score 60.1, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>PQ1_NODE_1824_length_2323_cov_11.125333
+   A:252-263(17.1)      B:314-327(24.0)      C:349-356(11.0)
+   ISGDYVSATDNL    <50> MGNLVSFPLLCLLN  <21> FNGDDCIF  [105]
+    |||| ||||+|         |||. |||||||.|        |||| ||
+   aSgDLSaATDrl         MGsgsSFplLtLih       vlGDDIvi
+Score 52.1, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>PQ1_NODE_391_length_3520_cov_18.330142
+   A:237-248(7.6)      B:300-313(14.8)      C:349-356(9.7)
+   FSCDWEKATDNP   <51> MGNPLTKTNLSLAH  <35> GNGDDLVF  [120]
+   +| | . |||+         ||||+|   ||| |        ||||+||
+   aSgDLSaATDrl        MGsgsSFplLtLih       vlGDDIvi
+Score 32.1, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>PQ1_NODE_509_length_3282_cov_7.365223
+   A:255-266(9.8)      B:316-329(18.8)      C:349-356(9.3)
+   AEVDGKAFEAHV   <49> SGDFNTGMGNTMVF  <19> VDGDNCLL  [102]
+    |.| .+| .||        |||.|| +||||+        |.|| ||.
+   lenDyskFDksq        SGdanTslGNTltn       vsGDDsvv
+Score 38.0, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>PQ1_NODE_1631_length_2404_cov_19.516088
+   A:258-269(20.9)      B:320-333(24.0)      C:349-356(16.4)
+   VSGDYESATDNL    <50> MGNALSFPLLCLQN  <15> INGDDIVF  [99]
+   +||||.||||+|         |||.+||||||| |       ||||||||
+   aSgDLSaATDrl         MGsgsSFplLtLih       vlGDDIvi
+Score 61.3, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>PQ1_NODE_3823_length_1810_cov_65.838803
+   A:236-247(13.9)      B:315-328(17.9)      C:349-356(10.7)
+   LSADLSNFDARV    <67> SGSMWTNFIDTLVN  <20> YYGDDSQI  [121]
+   ..+| ||||.++         ||| +|+ |+||||        ||||+ |
+   iagDySkFDssl         SGsplTsidNSivN       vyGDDnii
+Score 52.4, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>PQ1_NODE_2120_length_2209_cov_9.591292
+   A:250-261(13.7)      B:307-320(26.7)      C:349-356(10.8)
+   LSFDYVGATDNI    <45> MGSPMSFPLLCLIN  <28> INGDDLLT  [107]
+   .|+||  |||+|         ||||.|||||||||       |||||++ 
+   aSgDLSaATDrl         MGsgsSFplLtLih       vlGDDIvi
+Score 51.2, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>PQ1_NODE_2503_length_2092_cov_3.384349
+   A:249-260(21.7)      B:312-325(19.2)      C:349-356(9.6)
+   VSTDLSAATDRL    <51> MGLGPSWPIMSIAH  <23> IGGDDLIA  [108]
+   +| |||||||||         || | |||+.|+ |       | |||+|.
+   aSgDLSaATDrl         MGsgsSFplLtLih       vlGDDIvi
+Score 50.5, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>PQ1_NODE_4576_length_1681_cov_5.424751
+   A:98-109(11.2)      B:160-173(16.4)      C:191-198(13.2)
+   TSVDLINASDGL   <50> MGAYLCFPLLCIHS  <17> VNGDDCLI  [101]
+    |.|| .||| |        ||||+.|||||+         ||||| +|
+   aSgDLSaATDrl        MGsgsSFplLtLih       vlGDDIvi
+Score 40.8, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>PQ1_NODE_2247_length_2167_cov_31.317574
+   A:256-267(12.6)      B:318-331(19.4)      C:349-356(14.0)
+   TSVDLVNATDGL    <50> MGAYLSFPLLCLHS  <17> VNGDDCII  [101]
+    |.|| .||| |         ||||+|||||||         ||||| ||
+   aSgDLSaATDrl         MGsgsSFplLtLih       vlGDDIvi
+Score 46.0, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>PQ1_NODE_2171_length_2194_cov_10.472890
+   A:257-268(15.6)      B:319-332(22.1)      C:349-356(12.3)
+   TSVDLVSATDNL    <50> MGSYLSFPLLCLQS  <16> VNGDDTVI  [100]
+    |.|| ||||+|         ||||+|||||||         ||||| ||
+   aSgDLSaATDrl         MGsgsSFplLtLih       vlGDDIvi
+Score 49.9, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>PQ1_NODE_3737_length_1828_cov_5.201140
+   A:220-231(21.7)      B:283-296(20.6)      C:320-327(9.6)
+   VSTDLSAATDRL    <51> MGLGPSWPVMSIIH  <23> IGGDDLIA  [108]
+   +| |||||||||         || | |||+.|+||       | |||+|.
+   aSgDLSaATDrl         MGsgsSFplLtLih       vlGDDIvi
+Score 51.9, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>PQ1_NODE_3147_length_1938_cov_5.076676
+   A:250-261(19.8)      B:307-320(25.4)      C:349-356(10.8)
+   LSFDYESATDNI    <45> MGSPMSFPLLCLVN  <28> INGDDLLT  [107]
+   .|+||.||||+|         ||||.|||||||.|       |||||++ 
+   aSgDLSaATDrl         MGsgsSFplLtLih       vlGDDIvi
+Score 56.0, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>FP4_NODE_16712_length_1416_cov_3.801191
+   A:87-98(19.4)      B:154-167(20.9)      C:192-199(11.4)
+   FMLDFADHNAQH  <55> TGWRGTTWINSVAC  <24> GAGDDVLM  [113]
+   +||||+| |+||        |||+|||||||.          ||||+|
+   lmlDysdFNsqH       SGeRaTtfiNsvlN       hvGDDvll
+Score 51.6, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>PQ1_NODE_5336_length_1580_cov_5.434638
+   A:93-104(18.7)      B:154-167(24.0)      C:188-195(16.6)
+   TSGDYESATDNL   <49> MGNLLSFPLLCIVN  <20> VNGDDIVF  [103]
+    ||||.||||+|        |||.+||||||+.|       ||||||||
+   aSgDLSaATDrl        MGsgsSFplLtLih       vlGDDIvi
+Score 59.3, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>PQ1_NODE_851_length_2883_cov_11.968683
+   A:250-261(21.7)      B:307-320(23.7)      C:349-356(11.0)
+   LSFDYSSATDNI    <45> MGSVLSFPLLCIIN  <28> VNGDDLLT  [107]
+   .|+|||||||+|         ||| +||||||+||       |||||++ 
+   aSgDLSaATDrl         MGsgsSFplLtLih       vlGDDIvi
+Score 56.4, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>PQ1_NODE_5218_length_1594_cov_74.372124
+   A:3-14(8.4)       B:68-81(5.4)        C:124-131(4.0)
+   LSSDLTTATDFC <53> MGDPGAKLVLTLHN <42> CSGDDHIG  [129]
+   .| ||| |||        || |    +||| |        ||| | 
+   aSgDLSaATDrl      MGsgsSFplLtLih      vlGDDIvi
+Score 17.8, low-confidence-RdRP: good-segment-length.
+
+>PQ1_NODE_10028_length_1168_cov_5.648402
+   A:216-227(13.7)      B:273-286(26.7)      C:315-322(10.8)
+   LSFDYVGATDNI    <45> MGSPMSFPLLCLIN  <28> INGDDLLT  [107]
+   .|+||  |||+|         ||||.|||||||||       |||||++ 
+   aSgDLSaATDrl         MGsgsSFplLtLih       vlGDDIvi
+Score 51.2, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>PQ1_NODE_9628_length_1196_cov_5.009795
+   A:277-288(21.3)      B:340-353(23.4)      C:373-380(15.5)
+   VSGDYKSATDNL    <51> MGSYLSFPMLCFQN  <19> INGDDILF  [104]
+   +||||+||||+|         ||||+||||||  |       ||||||+|
+   aSgDLSaATDrl         MGsgsSFplLtLih       vlGDDIvi
+Score 60.2, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>PQ1_NODE_10123_length_1163_cov_3.473394
+   A:241-252(15.6)      B:302-315(14.4)      C:332-339(10.6)
+   TSVDLVSATDNL    <49> MGGYLSFPLLCIHS  <16> VNGDDTLV  [99]
+    |.|| ||||+|         || |+||||||+         ||||| ++
+   aSgDLSaATDrl         MGsgsSFplLtLih       vlGDDIvi
+Score 40.6, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>PQ1_NODE_9443_length_1208_cov_3.309251
+   A:35-46(19.9)      B:99-112(16.6)      C:124-131(8.4)
+   VSVDLTAATDGL  <52> MGTPLSFVVLSWIN <11> IHGDDAVG  [97]
+   +|.||||||| |       ||.|+|| +|| ||      | ||| | 
+   aSgDLSaATDrl       MGsgsSFplLtLih      vlGDDIvi
+Score 45.0, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>PQ1_NODE_8422_length_1279_cov_6.052239
+   A:72-83(13.6)      B:140-153(18.8)      C:185-192(10.0)
+   YALDVKRWDSHF  <56> SGSPNTVVDNTLGL  <31> LYGDDNTF  [121]
+   +|.| ++|||+.       ||||.|||||||          ||||| .
+   iagDySkFDssl       SGsplTsidNSivN       vyGDDnii
+Score 52.4, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>PQ1_NODE_13810_length_972_cov_4.426029
+   A:54-65(20.9)      B:116-129(25.2)      C:145-152(16.4)
+   VSGDYESATDNL  <50> MGNLLSFPLLCLVN  <15> INGDDIVF  [99]
+   +||||.||||+|       |||.+|||||||.|       ||||||||
+   aSgDLSaATDrl       MGsgsSFplLtLih       vlGDDIvi
+Score 62.4, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>PQ1_NODE_14086_length_960_cov_5.862458
+   A:38-49(12.1)      B:99-112(11.3)      C:131-138(9.6)
+   IEGDYSANDKHQ  <49> TGTTFTTARNSWYN <18> ILGDDLLG  [101]
+   +.||||. |++.        |  +||  ||.+|      ..|||.| 
+   iagDySkFDssl       SGsplTsidNSivN      vyGDDnii
+Score 43.0, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>PQ1_NODE_15412_length_906_cov_11.744298
+   A:75-86(18.7)      B:136-149(24.0)      C:170-177(16.6)
+   TSGDYESATDNL  <49> MGNLLSFPLLCIVN  <20> VNGDDIVF  [103]
+    ||||.||||+|       |||.+||||||+.|       ||||||||
+   aSgDLSaATDrl       MGsgsSFplLtLih       vlGDDIvi
+Score 59.3, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>PQ1_NODE_17113_length_848_cov_2.494194
+   A:169-180(13.9)      B:226-239(19.7)      C:257-264(14.1)
+   TSVDLVNATDNL    <45> MGSYLSFPLLCLHS  <17> VNGDDCVI  [96]
+    |.|| .|||+|         ||||+|||||||         ||||| ||
+   aSgDLSaATDrl         MGsgsSFplLtLih       vlGDDIvi
+Score 47.7, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>PQ1_NODE_11877_length_1061_cov_3.804656
+   A:185-196(13.3)      B:242-255(19.4)      C:273-280(14.1)
+   TSIDLVNATDGL    <45> MGAYLSFPLLCLHS  <17> VNGDDCVI  [96]
+    |||| .||| |         ||||+|||||||         ||||| ||
+   aSgDLSaATDrl         MGsgsSFplLtLih       vlGDDIvi
+Score 46.8, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>PQ1_NODE_10956_length_1112_cov_3.363811
+   A:114-125(8.7)      B:174-187(17.9)      C:207-214(8.1)
+   LEDDLVKQDRQT   <48> SGQATTAVGNLITN  <19> MLGDDNLI  [101]
+   .|+|  |.| .         |||+||. || |||         |||.||
+   lenDyskFDksq        SGdanTslGNTltn       vsGDDsvv
+Score 44.7, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>PQ1_NODE_12440_length_1033_cov_3.243750
+   A:35-46(12.5)      B:96-109(13.5)      C:128-135(10.6)
+   VESDFSSNDMTQ  <49> TGSQSTTFRNSMWN <18> ILGDDMLM  [101]
+   +|+|||  | ||       ||+ .|.+ |+|.|      . |||||.
+   lenDyskFDksq       SGdanTslGNTltn      vsGDDsvv
+Score 46.7, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>PQ1_NODE_18603_length_802_cov_1.840878
+   A:38-49(20.9)      B:99-112(21.2)      C:128-135(16.4)
+   VSGDYESATDNL  <49> MGNSMSFPLLCLQN <15> INGDDIVF  [98]
+   +||||.||||+|       ||| .||||||| |      ||||||||
+   aSgDLSaATDrl       MGsgsSFplLtLih      vlGDDIvi
+Score 58.5, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>PQ1_NODE_19021_length_790_cov_1.934449
+   A:17-28(15.1)      B:105-118(21.0)      C:131-138(7.3)
+   LSADLTKATDGF  <76> MGTPLSFSILSLIN  <12> IVGDDVFS  [122]
+   .| ||| ||| |       ||.|+|| +|||||       | |||+  
+   aSgDLSaATDrl       MGsgsSFplLtLih       vlGDDIvi
+Score 43.4, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>PQ1_NODE_20350_length_755_cov_1.939883
+   A:87-98(19.8)      B:144-157(26.7)      C:186-193(10.8)
+   LSFDYESATDNI  <45> MGSPMSFPLLCLIN  <28> INGDDLLT  [107]
+   .|+||.||||+|       ||||.|||||||||       |||||++ 
+   aSgDLSaATDrl       MGsgsSFplLtLih       vlGDDIvi
+Score 57.2, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>PQ1_NODE_29437_length_587_cov_1.807393
+   A:86-97(20.5)      B:148-161(20.8)      C:179-186(12.6)
+   LENDFSKYDKSQ  <50> SGDATTAFGNGILN  <17> FMGDDSLV  [101]
+   .|||||||||||       |||+||.+|| |.|       | ||||||
+   lenDyskFDksq       SGdanTslGNTltn       vsGDDsvv
+Score 63.9, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>PQ1_NODE_25979_length_639_cov_2.791519
+   A:107-118(14.8)      B:174-187(5.8)      C:206-213(10.2)
+   VGMDATRFDQHC    <55> SGCMNTSAVANCVM <18> MDGDDSVA  [107]
+   +. |.||||||.         || ||||.    +|       .|||||.
+   lenDyskFDksq         SGdanTslGNTltn      vsGDDsvv
+Score 40.9, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>PQ1_NODE_21037_length_737_cov_6.969880
+   A:72-83(18.7)      B:133-146(24.0)      C:167-174(16.6)
+   TSGDYESATDNL  <49> MGNLLSFPLLCIVN  <20> VNGDDIVF  [103]
+    ||||.||||+|       |||.+||||||+.|       ||||||||
+   aSgDLSaATDrl       MGsgsSFplLtLih       vlGDDIvi
+Score 59.3, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>PQ1_NODE_28558_length_599_cov_2.676806
+   A:17-28(4.0)      B:80-93(8.4)        C:113-120(6.2)
+   MSVDWEKATDIP <51> MGDPLTKTNISLAH <19> GNGDDTVV  [104]
+    |.| . |||        || |+|    || |       |||| |+
+   aSgDLSaATDrl      MGsgsSFplLtLih      vlGDDIvi
+Score 18.6, low-confidence-RdRP: good-segment-length.
+
+>PQ1_NODE_28414_length_601_cov_2.731061
+   A:39-50(21.7)      B:96-109(24.3)      C:138-145(9.1)
+   ISIDYSSATDNI  <45> MGSVMSFPLLCLIN <28> INGDDALT  [107]
+    |||||||||+|       ||| .|||||||||      ||||| + 
+   aSgDLSaATDrl       MGsgsSFplLtLih      vlGDDIvi
+Score 55.1, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>PQ1_NODE_26815_length_626_cov_1.692586
+   A:103-114(12.6)      B:160-173(19.4)      C:191-198(14.1)
+   TSVDLVNATDGL    <45> MGAYLSFPLLCLHS  <17> VNGDDCVI  [96]
+    |.|| .||| |         ||||+|||||||         ||||| ||
+   aSgDLSaATDrl         MGsgsSFplLtLih       vlGDDIvi
+Score 46.1, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>PQ1_NODE_21216_length_733_cov_2.453030
+   A:11-22(15.1)      B:99-112(21.9)      C:125-132(11.1)
+   LSADLTKATDGF  <76> MGTPLSFTILSLIN <12> ICGDDVVG  [122]
+   .| ||| ||| |       ||.|+|| +|||||      |.|||+| 
+   aSgDLSaATDrl       MGsgsSFplLtLih      vlGDDIvi
+Score 48.1, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>PQ1_NODE_30423_length_574_cov_3.413174
+   A:55-66(15.9)      B:118-131(18.4)      C:161-168(4.0)
+   VSADLTKATDGF  <51> MGLPLSWFILNLIN  <29> TCGDDLGG  [114]
+   +| ||| ||| |       || |+|| +| |||        .|||+  
+   aSgDLSaATDrl       MGsgsSFplLtLih       vlGDDIvi
+Score 38.2, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>PQ1_NODE_40383_length_479_cov_1.209360
+   A:43-54(20.9)      B:105-118(22.3)      C:134-141(16.4)
+   VSGDYESATDNL  <50> MGELLSFPLLCLVN  <15> INGDDIVF  [99]
+   +||||.||||+|       || .+|||||||.|       ||||||||
+   aSgDLSaATDrl       MGsgsSFplLtLih       vlGDDIvi
+Score 59.5, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>PQ1_NODE_31675_length_559_cov_1.985597
+   A:83-94(20.9)      B:149-162(21.8)      C:178-185(16.4)
+   VSGDYESATDNL  <54> MGNSLSFPLLCLQN  <15> INGDDIVF  [103]
+   +||||.||||+|       ||| +||||||| |       ||||||||
+   aSgDLSaATDrl       MGsgsSFplLtLih       vlGDDIvi
+Score 59.0, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>PQ1_NODE_53243_length_405_cov_1.897590
+   A:18-29(20.9)      B:81-94(20.5)       C:110-117(16.4)
+   VSGDYESATDNL  <51> MGQLTSFPLLCLVN <15> INGDDIVF  [100]
+   +||||.||||+|       || ..|||||||.|      ||||||||
+   aSgDLSaATDrl       MGsgsSFplLtLih      vlGDDIvi
+Score 57.8, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>PQ1_NODE_43111_length_459_cov_3.383420
+   A:16-27(12.5)      B:77-90(13.5)       C:109-116(10.6)
+   VESDFSSNDMTQ  <49> TGSQSTTFRNSMWN <18> ILGDDMLM  [101]
+   +|+|||  | ||       ||+ .|.+ |+|.|      . |||||.
+   lenDyskFDksq       SGdanTslGNTltn      vsGDDsvv
+Score 46.7, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>PQ1_NODE_34621_length_527_cov_6.259912
+   A:71-82(18.7)      B:132-145(24.0)      C:166-173(16.6)
+   TSGDYESATDNL  <49> MGNLLSFPLLCIVN  <20> VNGDDIVF  [103]
+    ||||.||||+|       |||.+||||||+.|       ||||||||
+   aSgDLSaATDrl       MGsgsSFplLtLih       vlGDDIvi
+Score 59.3, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>PQ1_NODE_32763_length_546_cov_1.737844
+   A:20-31(21.7)      B:77-90(24.3)       C:119-126(9.1)
+   ISIDYSSATDNI  <45> MGSVMSFPLLCLIN <28> INGDDALT  [107]
+    |||||||||+|       ||| .|||||||||      ||||| + 
+   aSgDLSaATDrl       MGsgsSFplLtLih      vlGDDIvi
+Score 55.1, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>PQ1_NODE_48120_length_430_cov_1.728291
+   A:20-31(12.6)      B:78-91(19.8)       C:109-116(14.1)
+   TSVDLVNATDGL  <46> MGAYLSFPLLCVQS <17> VNGDDCVI  [97]
+    |.|| .||| |       ||||+||||||         ||||| ||
+   aSgDLSaATDrl       MGsgsSFplLtLih      vlGDDIvi
+Score 46.5, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>PQ1_NODE_33934_length_534_cov_2.616052
+   A:42-53(12.5)      B:107-120(16.5)      C:139-146(12.4)
+   LFIDFKKFDQRI  <53> SGDPWTSLADSYAN  <18> TFGDDSVI  [105]
+   .  ||+|||+++       || |+||. +| .|       |.|||+||
+   iagDySkFDssl       SGsplTsidNSivN       vyGDDnii
+Score 51.3, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>PQ1_NODE_55531_length_395_cov_17.745342
+   A:31-42(12.1)      B:92-105(11.3)      C:124-131(9.6)
+   IEGDYSANDKHQ  <49> TGTTFTTARNSWYN <18> ILGDDLLG  [101]
+   +.||||. |++.        |  +||  ||.+|      ..|||.| 
+   iagDySkFDssl       SGsplTsidNSivN      vyGDDnii
+Score 43.0, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>PQ1_NODE_48616_length_427_cov_2.838983
+   A:20-31(23.3)      B:91-104(24.0)      C:129-136(8.8)
+   VCLDYADFNAQH  <59> SGVRQTTLINTILN <24> VLGDDGWS  [117]
+   +||||+|||+||       || |.||.|||+||      + |||.| 
+   lmlDysdFNsqH       SGeRaTtfiNsvlN      hvGDDvll
+Score 56.1, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>PQ1_NODE_54748_length_399_cov_1.064417
+   A:2-13(14.3)      B:71-84(21.8)       C:102-109(14.1)
+   TSVDLVSATDGL <57> MGAYLSFPLLCLQS <17> VNGDDCVI  [108]
+    |.|| |||| |      ||||+|||||||        ||||| ||
+   aSgDLSaATDrl      MGsgsSFplLtLih      vlGDDIvi
+Score 50.2, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>PQ1_NODE_62255_length_372_cov_1.193980
+   A:5-16(20.9)      B:70-83(24.0)       C:99-106(15.4)
+   VSGDYESATDNL <53> MGFPLSFPLLCLVN <15> INGDDIVA  [102]
+   +||||.||||+|      || |+|||||||.|      |||||||.
+   aSgDLSaATDrl      MGsgsSFplLtLih      vlGDDIvi
+Score 60.2, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>PQ1_NODE_58682_length_384_cov_1.517685
+   A:4-15(12.6)      B:62-75(19.8)       C:93-100(14.1)
+   TSVDLVNATDGL <46> MGAYLSFPLLCVQS <17> VNGDDCVI  [97]
+    |.|| .||| |      ||||+||||||         ||||| ||
+   aSgDLSaATDrl      MGsgsSFplLtLih      vlGDDIvi
+Score 46.5, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>PQ2_NODE_6578_length_2419_cov_729.137255
+   A:223-234(18.0)      B:311-324(15.1)      C:349-356(13.3)
+   LCIDWSSFDQRM    <76> SGMLNTQYLDSYCN  <24> VMGDDNVL  [134]
+   .| |||+||++|         ||. .|+.++| ||       |||||||.
+   iagDySkFDssl         SGsplTsidNSivN       vyGDDnii
+Score 56.4, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>PQ2_NODE_2056_length_3507_cov_24180.774898
+   A:248-259(24.1)      B:312-325(16.9)      C:349-356(16.5)
+   YSLDLSSATDRL    <52> MGALSSXAMLAVVH  <23> VLGDDIVI  [109]
+   ||+|||||||||         |||.|| +||+ .|       ||||||||
+   aSgDLSaATDrl         MGsgsSFplLtLih       vlGDDIvi
+Score 57.6, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>PQ2_NODE_10979_length_1996_cov_7.508580
+   A:265-276(10.1)      B:303-316(2.0)      C:349-356(6.0)
+   CTSDASCCDSRV    <26> SGSGCWASTGGLNG <32> AVSDDTIS  [92]
+   |. | | .||++         ||| + .    |        |  ||.| 
+   iagDySkFDssl         SGsplTsidNSivN      vyGDDnii
+Score 23.2, high-confidence-RdRP: reward-DDGSDD.good-segment-length.AB-dist-penalty.
+
+>PQ2_NODE_6800_length_2390_cov_204.237376
+   A:223-234(18.1)      B:311-324(15.6)      C:349-356(12.5)
+   MCIDWSAFDQRM    <76> SGMLNTQYIDSYCN  <24> IMGDDNVV  [134]
+   +| |||.||++|         ||. .|+.|+| ||       .||||||+
+   iagDySkFDssl         SGsplTsidNSivN       vyGDDnii
+Score 56.2, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>PQ2_NODE_780_length_4553_cov_19875.230580
+   A:252-263(23.9)      B:314-327(20.2)      C:349-356(15.1)
+   YSYDLSAATDRL    <50> MGALSSXAMLALTH  <21> VLGDDVVI  [105]
+   ||.|||||||||         |||.|| +||+|||       |||||+||
+   aSgDLSaATDrl         MGsgsSFplLtLih       vlGDDIvi
+Score 59.1, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>PQ2_NODE_17978_length_1621_cov_10.015504
+   A:218-229(3.3)      B:283-296(12.7)      C:330-337(3.1)
+   AVDDTTDSDTTT   <53> SGDSTTAASNGTTS  <33> SSSDDILA  [120]
+     +|||  |+|         ||| ||...|  |         | || |.
+   lenDyskFDksq        SGdanTslGNTltn       vsGDDsvv
+Score 29.2, high-confidence-RdRP: reward-DDGSDD.good-segment-length.
+
+>PQ2_NODE_15584_length_1734_cov_9.199880
+   A:23-34(13.1)      B:85-98(26.4)       C:122-129(14.6)
+   ISGDYKDATNGF  <50> MGNLLSFPLLCLTN <23> INGDDIAF  [107]
+    ||||+ ||  |       |||.+|||||||||      |||||| |
+   aSgDLSaATDrl       MGsgsSFplLtLih      vlGDDIvi
+Score 54.2, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>PQ2_NODE_65_length_7894_cov_8317.422325
+   A:240-251(18.8)      B:309-322(14.7)      C:349-356(12.6)
+   IEGDFSQFDSTV    <57> TGHSSTSMDNSVAC  <26> VYGDDHML  [117]
+   +.||||+||||+          ||++||+|||..        |||||. .
+   iagDySkFDssl         SGsplTsidNSivN       vyGDDnii
+Score 56.2, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>PQ2_NODE_2465_length_3328_cov_110.977880
+   A:254-265(14.1)      B:310-323(13.8)      C:349-356(11.4)
+   TSGDFSASTDYL    <44> MGSNCSFVVLCVLN  <25> INGDDAAF  [103]
+    ||| || ||+|         |||  || +|| .|       |||||  |
+   aSgDLSaATDrl         MGsgsSFplLtLih       vlGDDIvi
+Score 39.3, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>PQ2_NODE_234_length_6229_cov_40.717511
+   A:240-251(8.4)      B:309-322(11.4)      C:349-356(6.3)
+   FAMDVTALDSTA   <57> TGHASTTPDNTQYM  <26> SFSDDNFW  [117]
+   +|.| +. |||          ||.+|| ||| +         . ||| .
+   iagDySkFDssl        SGsplTsidNSivN       vyGDDnii
+Score 36.2, high-confidence-RdRP: high-PSSM-score.reward-DDGSDD.good-segment-length.
+
+>PQ2_NODE_2270_length_3411_cov_87.995506
+   A:223-234(17.0)      B:311-324(12.8)      C:349-356(9.2)
+   FTIDWSGFDQRL    <76> SGLLNTQFLDSFGN  <24> IMGDDNSG  [134]
+   +. |||+||++|         ||  .|+ ++|. |       .|||||  
+   iagDySkFDssl         SGsplTsidNSivN       vyGDDnii
+Score 48.9, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>PQ2_NODE_11188_length_1983_cov_224.785864
+   A:357-368(17.6)      B:433-446(22.4)      C:466-473(12.4)
+   LGCDWSSFDSTV    <64> SGSYFTNIIDSIVN  <19> FMGDDSLI  [117]
+   ...|||+||||+         ||||+|+||+||||       .||||+||
+   iagDySkFDssl         SGsplTsidNSivN       vyGDDnii
+Score 62.3, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>PQ2_NODE_321_length_5776_cov_12498.276696
+   A:254-265(11.7)      B:315-328(21.3)      C:349-356(7.7)
+   FEVDGKAFEAHV    <49> SGDYNTGLGNTLLM  <20> ADGDNCLL  [103]
+   ||.| .+| .||         ||| || |||||.|        .|| ||.
+   lenDyskFDksq         SGdanTslGNTltn       vsGDDsvv
+Score 40.8, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>PQ2_NODE_100_length_7340_cov_3755.413513
+   A:240-251(18.8)      B:309-322(14.7)      C:349-356(12.6)
+   IEGDFSQFDSTV    <57> TGHSSTSMDNSVAC  <26> VYGDDHML  [117]
+   +.||||+||||+          ||++||+|||..        |||||. .
+   iagDySkFDssl         SGsplTsidNSivN       vyGDDnii
+Score 56.2, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>PQ3_NODE_1037_length_3832_cov_9675.957968
+   A:258-269(8.6)      B:317-330(22.7)      C:349-356(6.1)
+   FEVDGKSFESHL   <47> SGDFNTGLGNTLIM  <18> ADGDNAVV  [99]
+   ||.| . | ||         |||.|| |||||+|        .||  ||
+   lenDyskFDksq        SGdanTslGNTltn       vsGDDsvv
+Score 37.4, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>PQ2_NODE_128893_length_461_cov_221.226804
+   A:5-16(21.6)      B:67-80(17.7)       C:105-112(10.1)
+   ISGDYSAATDNI <50> MGFKVSFVVLCLLN <24> INGDDCGF  [108]
+    |||||||||+|      ||   || +|||.|      |||||  |
+   aSgDLSaATDrl      MGsgsSFplLtLih      vlGDDIvi
+Score 49.3, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>PQ2_NODE_82132_length_632_cov_3.089445
+   A:58-69(10.4)      B:123-136(2.8)     C:146-153(10.4)
+   SSSDSSCYDSTT  <53> TNSATGTGFNWTVN <9> VAGDDSGA  [96]
+    ++| ||||||        | ++| . +|  +|     |+|||| .
+   lenDyskFDksq       SGdanTslGNTltn     vsGDDsvv
+Score 23.6, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>PQ3_NODE_315_length_5169_cov_175.804160
+   A:242-253(11.9)      B:311-324(16.9)      C:349-356(6.1)
+   VSNDYTNFNILH    <57> SGHRNTARDNTILH  <24> ICGDDETV  [115]
+   +. || +||. |         |||| |   ||+|.        .|||  .
+   lmlDysdFNsqH         SGeRaTtfiNsvlN       hvGDDvll
+Score 34.9, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>PQ3_NODE_4400_length_2488_cov_6129.927950
+   A:257-268(12.5)      B:321-334(24.0)      C:349-356(10.5)
+   LSADLTRATDVV    <52> MGHPSTWALLCLVH  <14> IRGDDLLA  [100]
+   .| ||| ||| .         || ||||+||||.|       | |||++.
+   aSgDLSaATDrl         MGsgsSFplLtLih       vlGDDIvi
+Score 47.0, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>PQ3_NODE_2691_length_2918_cov_457.610545
+   A:256-267(8.7)      B:315-328(17.9)      C:349-356(13.9)
+   NSGDYEESTNNL   <47> MGNLGSFVVLCILN  <20> LNGDDILF  [101]
+    ||||.  | +|        |||. || +||+.|       .|||||+|
+   aSgDLSaATDrl        MGsgsSFplLtLih       vlGDDIvi
+Score 40.5, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>PQ3_NODE_4813_length_2411_cov_8955.887083
+   A:259-270(22.3)      B:315-328(17.0)      C:349-356(14.8)
+   HSIDLTAATDRF    <44> IGVYSSWALFTMCH  <20> LLGDDIVI  [98]
+    |||||||||||          | ||||+|||+.|       .|||||||
+   aSgDLSaATDrl         MGsgsSFplLtLih       vlGDDIvi
+Score 54.1, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>PQ3_NODE_452_length_4786_cov_4099.759389
+   A:258-269(8.6)      B:317-330(22.7)      C:349-356(6.1)
+   FEVDGKSFESHL   <47> SGDFNTGLGNTLIM  <18> ADGDNAVV  [99]
+   ||.| . | ||         |||.|| |||||+|        .||  ||
+   lenDyskFDksq        SGdanTslGNTltn       vsGDDsvv
+Score 37.4, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>PQ4_NODE_11990_length_1758_cov_3.604154
+   A:255-266(15.5)      B:318-331(16.3)      C:349-356(7.9)
+   YSTDLVAATDYM    <51> MGTPLGWPAMSIAH  <17> IVGDDGLL  [102]
+   || || ||||+.         ||.|+ || .|+ |       | ||| + 
+   aSgDLSaATDrl         MGsgsSFplLtLih       vlGDDIvi
+Score 39.7, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>PQ3_NODE_2108_length_3144_cov_5.901009
+   A:218-229(2.3)      B:296-309(4.0)      C:349-356(6.5)
+   HLDDWISLDKTC   <66> TGDITTDDDPSGIC <39> AKGDDRAI  [139]
+     +|    |||.        ||| || +  + +|        |||  |
+   lenDyskFDksq        SGdanTslGNTltn      vsGDDsvv
+Score 22.8, high-confidence-RdRP: reward-DDGGDD.good-segment-length.
+
+>PQ4_NODE_7034_length_2166_cov_1674.996656
+   A:244-255(15.0)      B:314-327(10.2)      C:349-356(7.0)
+   LAVDKTAWDWTM    <58> SGWLLTLSMNSAAQ  <21> GCGDDVLT  [113]
+   .| | +.|||||         ||  +|   || .+         |||+| 
+   iagDySkFDssl         SGsplTsidNSivN       vyGDDnii
+Score 42.2, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>PQ3_NODE_5259_length_2345_cov_63.324384
+   A:227-238(10.9)      B:299-312(16.6)      C:349-356(6.7)
+   IMSDIKKWDANM    <60> SGSYYTSLVNTTGN  <36> SYGDNQLF  [130]
+   +  | +|||. |         |||| ||..||  |        |||  |.
+   iagDySkFDssl         SGsplTsidNSivN       vyGDDnii
+Score 34.2, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>PQ4_NODE_28_length_10942_cov_132.632533
+   A:229-240(15.0)      B:302-315(17.7)      C:349-356(9.4)
+   FDLDFQGFDSTV    <61> SGHPGTADENSMIH  <33> LYGDDGAY  [128]
+   +|.|| +||||+         ||||+|.  |||+|        ||||. +
+   iagDySkFDssl         SGsplTsidNSivN       vyGDDnii
+Score 52.1, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>PQ4_NODE_88598_length_507_cov_3.177419
+   A:17-28(7.6)      B:88-101(17.8)      C:122-129(6.9)
+   AGTDVSAFDFGV <59> SGSPNTIADNSMLR <20> SVGDDALE  [113]
+    ..| |.||  +      ||||.|  ||||          ||| | 
+   iagDySkFDssl      SGsplTsidNSivN      vyGDDnii
+Score 42.3, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>PQ4_NODE_122_length_6767_cov_33.759038
+   A:233-244(14.5)      B:303-316(17.4)      C:349-356(7.6)
+   ISTDFSGFDKQL    <58> SGSNVTTILNSISV  <32> IFGDDRTL  [124]
+   +..|||+||+ |         |||  |||+||| .       ..|||  .
+   iagDySkFDssl         SGsplTsidNSivN       vyGDDnii
+Score 49.6, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>PQ4_NODE_337_length_5374_cov_113.368987
+   A:256-267(14.7)      B:317-330(25.7)      C:349-356(11.9)
+   FLLDHSRFDAHV    <49> SGDVNTSLGNTILN  <18> LDGDDSVV  [101]
+   | .|.||||.||         |||+||||||||.|        .||||||
+   lenDyskFDksq         SGdanTslGNTltn       vsGDDsvv
+Score 62.2, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>PQ4_NODE_2732_length_3004_cov_8.609007
+   A:251-262(15.0)      B:312-325(18.4)      C:349-356(9.8)
+   LSSDLTCATDTI    <49> MGEPLSKPVLTLMN  <23> IAGDDHIV  [106]
+   .| ||| |||.|         || |+| |+||| |       | ||| |+
+   aSgDLSaATDrl         MGsgsSFplLtLih       vlGDDIvi
+Score 43.2, high-confidence-RdRP: high-PSSM-score.good-segment-length.
+
+>PQ4_NODE_99381_length_467_cov_3.291878
+   A:20-31(11.0)      B:89-102(20.2)      C:124-131(8.3)
+   RGLDKTAWDWTV  <57> SGCYLTIIINSIGQ <21> TIGDDVTV  [112]
+    ..| +.||||+       ||||+| ||||| +      | |||+ +
+   iagDySkFDssl       SGsplTsidNSivN      vyGDDnii
+Score 49.5, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>PQ4_NODE_25440_length_1213_cov_4.358772
+   A:204-215(10.6)      B:268-281(24.7)      C:309-316(15.3)
+   IAGDYEMFDGKE    <52> SGNPLTTIINTIVN  <27> AYGDDNLI  [113]
+   +||||  ||+           ||+|+|||||||||       ||||||||
+   iagDySkFDssl         SGsplTsidNSivN       vyGDDnii
+Score 60.7, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>PQ4_NODE_31_length_10322_cov_13.015611
+   A:257-268(18.6)      B:319-332(9.5)      C:349-356(8.7)
+   LEVDMSKYDKSQ    <50> SGNAATLFDNTSFL <16> AVGDDSYI  [100]
+   .|.|.|||||||         || + | + ||           |||| |
+   lenDyskFDksq         SGdanTslGNTltn      vsGDDsvv
+Score 46.9, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+
+>PQ4_NODE_56_length_8445_cov_35.728978
+   A:235-246(19.4)      B:303-316(24.6)      C:349-356(8.4)
+   VAGDFSSFDGTL    <56> SGNPLTVIINTIVN  <32> MYGDDNRL  [122]
+   +|||||+||+||         ||+|+|||||||||        ||||| .
+   iagDySkFDssl         SGsplTsidNSivN       vyGDDnii
+Score 62.4, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
